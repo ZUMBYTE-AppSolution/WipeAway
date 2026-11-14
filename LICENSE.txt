@@ -1,0 +1,14 @@
+WipeAway – Zumbyte · AppSolution
+Copyright (c) 2026 Andreas Zumbansen. Alle Rechte vorbehalten.
+
+Dieses öffentliche Repository stellt Produktinformationen, Markenmaterial und
+Downloads bereit. Es enthält keinen App-Quellcode und gewährt keine Open-Source-
+Lizenz für WipeAway. Die Rechte an WipeAway, seinem Logo und den hier erstellten
+Produktdarstellungen verbleiben beim jeweiligen Rechteinhaber.
+
+Die Nutzung einer veröffentlichten App richtet sich nach den mit dieser Ausgabe
+bereitgestellten Lizenz- und Vertragsbedingungen. Die Veröffentlichung dieses
+Repositories allein gewährt keine kostenpflichtige App-Lizenz.
+
+Verwendete Drittanbieter-Komponenten unterliegen ihren eigenen Lizenzen.
+Erforderliche Lizenzhinweise werden in der jeweiligen App-Ausgabe mitgeliefert.

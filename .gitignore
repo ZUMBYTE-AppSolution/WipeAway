@@ -1,0 +1,10 @@
+# Product documentation repository: never admit application sources or tooling.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!IMPRINT.md
+!PRIVACY.md
+!LICENSE.txt
+!assets/
+!assets/*.png
