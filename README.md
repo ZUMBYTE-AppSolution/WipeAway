@@ -17,7 +17,7 @@
 - **Backups im Blick:** versionierte Sicherungen mit Prüfung und Wiederherstellung.
 - **Eine Oberfläche für Tag und Nacht:** eigene Hell- und Dunkelgestaltung, einstellbar oder passend zum Mac.
 
-Diese Funktionen stammen aus dem bisherigen Entwicklungsstand. Ihr Umfang in einer veröffentlichten WipeAway-Version steht im jeweiligen [Änderungsprotokoll](CHANGELOG.md). Die umfassende neue Laufwerksanalyse, App-Auslagerung und Lizenzanbindung sind noch in Arbeit.
+Der Stand 0.5.0 enthält zusätzlich eine fortsetzbare Laufwerksanalyse, erklärbare Schutzregeln, einen Assistenten zur App-Auslagerung und die Lizenzanbindung. Der neue Installer wird vor der öffentlichen Freigabe am installierten Stand geprüft. Einschränkungen, insbesondere zur App-Auslagerung, stehen im [Änderungsprotokoll](CHANGELOG.md).
 
 ## Zwei Ausgaben, klar beschrieben
 
@@ -28,7 +28,7 @@ Diese Funktionen stammen aus dem bisherigen Entwicklungsstand. Ihr Umfang in ein
 | Updates | Öffentlicher GitHub-Release-Feed und signierte Downloads | Über den Mac App Store |
 | Administrator-Helfer | Nach persönlicher macOS-Freigabe | Nicht enthalten |
 
-Die Store-Ausgabe soll eigenständig nutzbar sein. Apple-Käufe sollen über eine geprüfte Zumbyte-Lizenz auch für die direkte Vollversion gelten. Die Verbindung ist noch nicht veröffentlicht. Ein Downloadhinweis in der Store-App wird nur eingebunden, soweit Apples Regeln dies erlauben.
+Die Store-Ausgabe ist für eine eigenständige Nutzung ohne zusätzliches Zumbyte-Konto ausgelegt. Eine freiwillige Verbindung soll geprüfte Apple-Käufe auch für die direkte Vollversion nutzbar machen. Store-Ausgabe und Kaufübernahme sind noch nicht öffentlich freigegeben. Ein Downloadhinweis in der Store-App wird nur eingebunden, soweit Apples Regeln dies erlauben.
 
 ## Geplante Lizenzen
 
@@ -38,7 +38,13 @@ Die Store-Ausgabe soll eigenständig nutzbar sein. Apple-Käufe sollen über ein
 | Jährlich | 39,99 € / Jahr |
 | Lifetime | 249,99 € einmalig |
 
-Für berechtigte Neukunden ist eine **14-tägige kostenlose Probephase** des Abos vorgesehen. Sie gilt nicht für den Lifetime-Kauf. Die endgültigen, lokalisierten Preise, Verlängerungsbedingungen und die persönliche Berechtigung zur Probephase werden vor dem Kauf angezeigt. Apple-Abos sollen über Apple verwaltet und gekündigt werden. Aktuell werden hier keine Käufe angeboten.
+Für berechtigte Neukunden ist eine **14-tägige kostenlose Probephase** des Abos bei Apple eingerichtet. Sie gilt nicht für den Lifetime-Kauf. Die endgültigen, lokalisierten Preise, Verlängerungsbedingungen und die persönliche Berechtigung werden vor dem Kauf angezeigt. Apple-Abos werden über Apple verwaltet und gekündigt. Im [Zumbyte-Lizenzshop](https://zumbyte.de/licenses/) sind Programme und ihre Modelle getrennt dargestellt; WipeAway ist bis zur Produktfreigabe als Vorschau ohne Kaufmöglichkeit sichtbar.
+
+## Lizenz und Lifetime-Geschenke
+
+Die direkte Ausgabe 0.5.0 akzeptiert eine persönliche Website-Lizenz mit der zugehörigen E-Mail-Adresse sowie einen direkten Mac-Geschenkcode. Ein **WA-GIFT-Code** wird in WipeAway unter Einstellungen → WipeAway-Lizenz eingelöst. Ein **ZB-GIFT-Code** wird zuerst im Kundenportal eingelöst; anschließend werden der dort erhaltene persönliche Lizenzschlüssel und die E-Mail-Adresse in der App eingegeben. Bitte diese Codes und Schlüssel vertraulich behandeln.
+
+Im Zumbyte-Adminbereich öffnet **Programme & Tools → WipeAway → Geschenkcodes** die passenden Funktionen. Einlöselimit und Sperrung eines Codes sind von bereits vergebenen Lizenzen getrennt. Für Geschenke innerhalb der Store-Ausgabe werden Apples Angebotscodes verwendet; deren produktive Verteilung setzt Apples Freigaben voraus. Eigene Website-Codes schalten die Store-Ausgabe nicht frei.
 
 ## Updates ohne GitHub-API
 
@@ -48,7 +54,7 @@ Update-Dateien werden zusätzlich zur Apple-Signatur mit einem eigenen Update-Sc
 
 ## Hilfe und Fehlerberichte
 
-Kontakt: **[info@zumbyte.de](mailto:info@zumbyte.de)**. Eine integrierte Fehlerbericht- und Ticketfunktion mit Vorschau und freiwilligen Anhängen ist in Vorbereitung.
+Kontakt: **[info@zumbyte.de](mailto:info@zumbyte.de)**. Der Stand 0.5.0 enthält eine integrierte Fehlerbericht- und Ticketfunktion mit Vorschau, freiwilligen Diagnoseangaben und eigenen Anhängen. Die Übermittlung erfolgt erst nach Bestätigung an Zumbyte. Weitere Angaben stehen in den [Datenschutzhinweisen](PRIVACY.md).
 
 Bitte keine privaten Pfade, Zugangsdaten, Chats oder persönlichen Dateien in öffentliche GitHub-Issues schreiben. Scan-Ergebnisse und Backups sind keine öffentlichen Support-Anhänge.
 

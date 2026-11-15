@@ -12,14 +12,22 @@ Noch nicht veröffentlicht. Neue Funktionen werden erst nach ihren jeweiligen Pr
 - Update-Anbindung der direkten Ausgabe an öffentliche GitHub-Release-Dateien mit signiertem Feed und signierten Downloads.
 - Automatische Updatehinweise ohne zusätzliches Fenster beim Hintergrundstart; manuelle Prüfung in der App.
 - Zusätzliche Grundlagen zur APFS-Erfassung und zu erklärbaren Analyse-Regeln.
+- Fortsetzbare, lokal gespeicherte Laufwerksanalyse mit Größen, Dateitypen und Hinweisen auf unvollständig lesbare Bereiche.
+- Automatische Cache-Vorschläge prüfen Inhalte zusätzlich auf geschützte Projekte, Chats, Schlüssel und Datenbanken. Gespeicherte Alt-Funde werden vor der Quarantäne erneut geprüft.
+- Gemeinsame Website-Lizenzverwaltung mit Programmübersicht, Portfolio-Zuordnung, Geschenkcodes, Aktivierungen und programmspezifischer API-Anleitung.
+- Persönliche Website-Lizenz und direkte Mac-Geschenkcodes in der App; der Einrichtungsassistent erklärt die Aktivierung vor dem Helfer-Schritt.
+- Getrennter Store-Build mit Apple-Käufen und Wiederherstellung. Preise und 14-Tage-Probephase für berechtigte Abo-Neukunden sind bei Apple eingerichtet.
+- Freiwillige Fehlerberichte mit Vorschau, Zugangsdaten-Filter und Anbindung an das Zumbyte-Ticketsystem.
+- Direkte App und Installationspaket 0.5.0, Build 10, für Intel und Apple Silicon signiert und von Apple notarisiert.
 
 ### Noch in Arbeit
 
-- Vollständige Einbindung der neuen Laufwerksanalyse und Schutzregeln.
-- App-Auslagerung mit geprüfter Rückkehr und Verbrauchsüberwachung.
-- Apple-Käufe, gemeinsame Zumbyte-Lizenz und Store-Ausgabe.
-- Integrierte Fehlerberichte, Produkt-Datenschutzinformationen und Werbe-Screenshots.
-- Abschließende Oberflächen-, Installations- und Updateprüfungen sowie Signierung und Notarisierung der neuen Ausgabe.
+- Abschließende Prüfung des neuen Installers, Helfers und Einrichtungsablaufs am installierten Mac.
+- Vollständiger Updateversuch zwischen zwei öffentlich bereitgestellten Versionen.
+- Weitere herstellerspezifische Speicherregeln und echte App-Verträglichkeitsprüfungen der Auslagerung.
+- Die Auslagerung behält Wiederherstellungskopien am ursprünglichen Ort: deren Platz gilt noch nicht als freigegeben.
+- Kaufübernahme mit echten Apple-Sandbox-Käufen, Store-Veröffentlichung und Apples Freigabe produktiver Geschenkcodes.
+- Werbe-Screenshots aus der tatsächlich laufenden nativen Oberfläche.
 
 ## SEKTOR – bisheriger Stand
 
