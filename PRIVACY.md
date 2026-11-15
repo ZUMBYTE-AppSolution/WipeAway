@@ -1,5 +1,7 @@
 # Datenschutz bei WipeAway
 
+Die aktuelle, nach Apps gegliederte Fassung findest du auf [zumbyte.de/datenschutz – WipeAway](https://zumbyte.de/datenschutz/#wipeaway). Dort kannst du auch die Cookie-Auswahl der Website verwalten.
+
 **Stand: 15. November 2026 · WipeAway 0.5.0.** Diese Hinweise beschreiben die direkte Mac-Ausgabe und den getrennten Entwicklungsstand für den Mac App Store. Der jeweilige Download nennt die enthaltenen Funktionen. Für andere Zumbyte-Apps gelten deren eigene Hinweise.
 
 ## Verantwortlicher und Kontakt
