@@ -19,6 +19,10 @@ Noch nicht veröffentlicht. Neue Funktionen werden erst nach ihren jeweiligen Pr
 - Getrennter Store-Build mit Apple-Käufen und Wiederherstellung. Preise und 14-Tage-Probephase für berechtigte Abo-Neukunden sind bei Apple eingerichtet.
 - Freiwillige Fehlerberichte mit Vorschau, Zugangsdaten-Filter und Anbindung an das Zumbyte-Ticketsystem.
 - Direkte App und Installationspaket 0.5.0, Build 10, für Intel und Apple Silicon signiert und von Apple notarisiert.
+- Native Werbe-Vorschauen für Hellmodus, Dunkelmodus, Backup-Tresor und Apple-Tarife mit gekennzeichneten Beispieldaten.
+- Lokale Apple-Tests für die tatsächliche 14-Tage-Probephase, einmalige Probe-Berechtigung innerhalb der Abo-Gruppe, Lifetime-Wechsel, Ablauf und Rückerstattung bestanden.
+- Zusätzliche Store-Kaufregeln verhindern weitere Pro-Käufe bei aktiver Lifetime-Lizenz und erklären vor dem Wechsel, dass ein bestehendes Apple-Abo gesondert gekündigt werden muss.
+- Einlösung von Apple-Angebotscodes über Apples eigene Oberfläche auf unterstützten macOS-Versionen, mit Rückweg über den App Store auf macOS 14.
 
 ### Noch in Arbeit
 
@@ -27,7 +31,6 @@ Noch nicht veröffentlicht. Neue Funktionen werden erst nach ihren jeweiligen Pr
 - Weitere herstellerspezifische Speicherregeln und echte App-Verträglichkeitsprüfungen der Auslagerung.
 - Die Auslagerung behält Wiederherstellungskopien am ursprünglichen Ort: deren Platz gilt noch nicht als freigegeben.
 - Kaufübernahme mit echten Apple-Sandbox-Käufen, Store-Veröffentlichung und Apples Freigabe produktiver Geschenkcodes.
-- Werbe-Screenshots aus der tatsächlich laufenden nativen Oberfläche.
 
 ## SEKTOR – bisheriger Stand
 

@@ -6,7 +6,7 @@
 
 [Veröffentlichungen & Downloads](https://github.com/ZUMBYTE-AppSolution/WipeAway/releases) · [Zumbyte](https://www.zumbyte.de) · [Datenschutzhinweise](PRIVACY.md) · [Impressum](IMPRINT.md)
 
-> **In Entwicklung.** WipeAway entsteht aus SEKTOR. Die neue Ausgabe wird noch vorbereitet und geprüft. Hier ist derzeit noch kein freigegebenes WipeAway-Installationspaket verfügbar. Screenshots und Downloads werden mit der geprüften Ausgabe ergänzt.
+> **In Entwicklung.** WipeAway entsteht aus SEKTOR. Der neue Installer wird vor seiner öffentlichen Freigabe geprüft. Hier ist derzeit noch kein freigegebenes WipeAway-Installationspaket verfügbar. Die folgenden Vorschauen zeigen die native Store-Oberfläche mit gekennzeichneten Beispieldaten.
 
 ## Dein Mac, übersichtlich aufgeräumt
 
@@ -19,6 +19,14 @@
 
 Der Stand 0.5.0 enthält zusätzlich eine fortsetzbare Laufwerksanalyse, erklärbare Schutzregeln, einen Assistenten zur App-Auslagerung und die Lizenzanbindung. Der neue Installer wird vor der öffentlichen Freigabe am installierten Stand geprüft. Einschränkungen, insbesondere zur App-Auslagerung, stehen im [Änderungsprotokoll](CHANGELOG.md).
 
+## Ein Blick in die Store-Ausgabe
+
+Die Vorschauen stammen aus den tatsächlichen nativen Ansichten. Gezeigte Größen und Pfade sind fiktive Beispieldaten; das Backup entstand ausschließlich aus eigenen Beispieldateien. Bereinigung, neue Backups und Dateiübertragung erfordern Pro.
+
+![WipeAway Speicheranalyse mit Kreissegmenten und Mehrfachauswahl](assets/wipeaway-store-analysis-dark.png)
+
+[Hellmodus](assets/wipeaway-store-analysis-light.png) · [Backup-Tresor](assets/wipeaway-store-backup-dark.png) · [Apple-Tarife und Wiederherstellung](assets/wipeaway-store-pro-dark.png)
+
 ## Zwei Ausgaben, klar beschrieben
 
 | | Direkte Vollversion | Geplante Mac-App-Store-Ausgabe |
@@ -28,7 +36,7 @@ Der Stand 0.5.0 enthält zusätzlich eine fortsetzbare Laufwerksanalyse, erklär
 | Updates | Öffentlicher GitHub-Release-Feed und signierte Downloads | Über den Mac App Store |
 | Administrator-Helfer | Nach persönlicher macOS-Freigabe | Nicht enthalten |
 
-Die Store-Ausgabe ist für eine eigenständige Nutzung ohne zusätzliches Zumbyte-Konto ausgelegt. Eine freiwillige Verbindung soll geprüfte Apple-Käufe auch für die direkte Vollversion nutzbar machen. Store-Ausgabe und Kaufübernahme sind noch nicht öffentlich freigegeben. Ein Downloadhinweis in der Store-App wird nur eingebunden, soweit Apples Regeln dies erlauben.
+Die Store-Ausgabe ist für eine eigenständige Nutzung ohne zusätzliches Zumbyte-Konto ausgelegt. Ein erster Build wurde für interne Tests von Apple verarbeitet. Eine freiwillige Verbindung soll geprüfte Apple-Käufe auch für die direkte Vollversion nutzbar machen. Store-Ausgabe und Kaufübernahme sind noch nicht öffentlich freigegeben. Ein Downloadhinweis in der Store-App wird nur eingebunden, soweit Apples Regeln dies erlauben.
 
 ## Geplante Lizenzen
 
